@@ -1,0 +1,71 @@
+[
+  {
+    "id": "f436838b-3317-47af-afaf-76d475e6c4a5",
+    "data": [
+      {
+        "text": "major",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " collision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec5fa1dc-b13e-4a40-be65-cceac9558d20",
+    "data": [
+      {
+        "text": "it was a ",
+        "userDefined": false
+      },
+      {
+        "text": "major",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "crash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9a190b5-92be-477b-a19a-6046ca0f136a",
+    "data": [
+      {
+        "text": "it was a ",
+        "userDefined": false
+      },
+      {
+        "text": "major",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "accident",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "79c3bf00-e9bf-4c1d-93fa-8d85d31efca6",
+  "name": "TestDMSIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "messageTexts 1",
+            "messageTexts 3"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "messageTexts 1",
+            "messageTexts 3"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

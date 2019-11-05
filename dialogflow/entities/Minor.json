@@ -1,0 +1,9 @@
+{
+  "id": "3222883a-9d4f-4a04-ab7e-9a2df33c787b",
+  "name": "Minor",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

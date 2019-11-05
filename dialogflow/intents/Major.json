@@ -1,0 +1,45 @@
+{
+  "id": "b128c6d6-e9ea-4c33-9d93-57f2e805dd1a",
+  "parentId": "58b34b1e-9c29-49cf-bdf9-2b1344994199",
+  "rootParentId": "58b34b1e-9c29-49cf-bdf9-2b1344994199",
+  "name": "Major",
+  "auto": true,
+  "contexts": [
+    "Accident-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Accident.Accident-custom-2",
+      "affectedContexts": [
+        {
+          "name": "Major-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Ok, did it involve any loss of life or a human harm that led to medical emergencies?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok, did it involve any loss of life or a human harm that led to medical emergencies?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

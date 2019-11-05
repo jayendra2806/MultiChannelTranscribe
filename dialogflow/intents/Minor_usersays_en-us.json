@@ -1,0 +1,161 @@
+[
+  {
+    "id": "a332c8d8-2d4b-4939-b33c-0df4c80a2cd4",
+    "data": [
+      {
+        "text": "did not ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " any medical assisstance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b854badd-d826-4725-839a-3238e8bb5e58",
+    "data": [
+      {
+        "text": "no human harm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d235b4a8-9b4e-4436-a027-bf1f15fc8f48",
+    "data": [
+      {
+        "text": "harmless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f268979-b6c9-47f1-8bc1-3e7fc397a4bb",
+    "data": [
+      {
+        "text": "nobody got hurt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb8652c1-f931-4333-8bba-4f0e08b9b842",
+    "data": [
+      {
+        "text": "minor",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0db34af6-52fd-477b-bba7-268a635183ed",
+    "data": [
+      {
+        "text": "just a ",
+        "userDefined": false
+      },
+      {
+        "text": "scratch",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c619307-29e2-4712-b03a-f56f4ef6f276",
+    "data": [
+      {
+        "text": "small collision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d214d94-a4fc-46d1-9999-9cd37726204e",
+    "data": [
+      {
+        "text": "very ",
+        "userDefined": false
+      },
+      {
+        "text": "minor",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "93e2eb6a-c0ef-4941-94b9-01abcbe3b7a1",
+    "data": [
+      {
+        "text": "not ",
+        "userDefined": false
+      },
+      {
+        "text": "major",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b3fc2f0-5ac4-45d0-9cc8-1d07b02b0a1e",
+    "data": [
+      {
+        "text": "it was a ",
+        "userDefined": false
+      },
+      {
+        "text": "minor",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "accident",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

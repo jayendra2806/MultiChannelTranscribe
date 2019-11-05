@@ -1,0 +1,9 @@
+{
+  "id": "4ba4c15a-f575-44bf-b9cb-e868832f96e1",
+  "name": "Damage_type",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

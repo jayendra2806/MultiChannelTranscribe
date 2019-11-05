@@ -1,0 +1,139 @@
+[
+  {
+    "id": "476a6650-9770-4434-9dea-756b62db73a1",
+    "data": [
+      {
+        "text": "i dont want bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22eaebf7-c81e-4995-a0ee-77256c21ccb2",
+    "data": [
+      {
+        "text": "dont go with bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de616b7b-3cf7-44eb-af80-f704719f1e15",
+    "data": [
+      {
+        "text": "not ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "529789b0-cba6-49d0-a6b1-e6d8c09a0b44",
+    "data": [
+      {
+        "text": "nah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8462a21c-1d7d-48e4-812c-507b27d4f5c1",
+    "data": [
+      {
+        "text": "not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4101ea56-2562-4e61-9a1e-388844cde3e5",
+    "data": [
+      {
+        "text": "not right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "984f597f-3f5a-4794-8e4f-dfafcc753a93",
+    "data": [
+      {
+        "text": "not this time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a5309ad-972b-4595-8eb4-2aedf1621d41",
+    "data": [
+      {
+        "text": "Executive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc72deef-936f-4c44-ab86-a7bfcd3b8442",
+    "data": [
+      {
+        "text": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "514191e2-f979-466b-8c79-e7f8b4ac8222",
+    "data": [
+      {
+        "text": "I will prefer person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5873fc9-d6cd-46d2-abed-ea447af8f95f",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

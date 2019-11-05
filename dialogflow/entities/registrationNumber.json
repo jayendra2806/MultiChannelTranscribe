@@ -1,0 +1,9 @@
+{
+  "id": "e12392f9-2c5b-407e-be22-3c79d70260a0",
+  "name": "registrationNumber",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

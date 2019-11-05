@@ -1,0 +1,45 @@
+{
+  "id": "bce92801-cab2-44a8-9835-7d3dad05c119",
+  "parentId": "b128c6d6-e9ea-4c33-9d93-57f2e805dd1a",
+  "rootParentId": "58b34b1e-9c29-49cf-bdf9-2b1344994199",
+  "name": "Major - yes",
+  "auto": true,
+  "contexts": [
+    "Major-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Accident.Accident-custom-2.Major-yes",
+      "affectedContexts": [
+        {
+          "name": "await_user_ack",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "That\u0027s sad, I can raise a claim for you, but for that i will need your acknowledgement, say yes to raise a claim."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "That\u0027s sad, I can raise a claim for you, but for that i will need your acknowledgement, say yes to raise a claim."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

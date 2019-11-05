@@ -1,0 +1,53 @@
+{
+  "id": "9d2ca623-dca7-469e-8ec6-facb4c8d1762",
+  "name": "Authentication",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "file_claim",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8ddfabb9-d237-4cc1-ad02-243eb52121df",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "registrationNumber",
+          "value": "$registrationNumber",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Got it, you are authenticated, do you want to raise a claim?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Got it, you are authenticated, do you want to raise a claim?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

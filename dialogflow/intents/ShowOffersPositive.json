@@ -1,0 +1,36 @@
+{
+  "id": "7639d9ab-3a76-460b-ac90-fce1bdf93357",
+  "name": "ShowOffersPositive",
+  "auto": true,
+  "contexts": [
+    "show_offers"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Here are some offers, thank you for contacting us."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here are some offers, thank you for contacting us."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

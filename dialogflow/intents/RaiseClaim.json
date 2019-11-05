@@ -1,0 +1,42 @@
+{
+  "id": "187f0dde-cc4e-4dc6-bc8c-ed1127d5f861",
+  "name": "RaiseClaim",
+  "auto": true,
+  "contexts": [
+    "await_user_ack"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "show_offers",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Done, raising a claim, you will receive claim details shortly, till then, would you like to know about our offers?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Done, raising a claim, you will receive claim details shortly, till then, would you like to know about our offers?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "5234a1fe-c564-42b5-a3e2-127afa20ca52",
+  "parentId": "b128c6d6-e9ea-4c33-9d93-57f2e805dd1a",
+  "rootParentId": "58b34b1e-9c29-49cf-bdf9-2b1344994199",
+  "name": "Major - no",
+  "auto": true,
+  "contexts": [
+    "Major-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Accident.Accident-custom-2.Major-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Oh I see, I can still raise a claim for you, but I will need your acknowledgement, say yes to raise a claim."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Oh I see, I can still raise a claim for you, but I will need your acknowledgement, say yes to raise a claim."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

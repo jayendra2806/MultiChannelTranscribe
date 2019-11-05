@@ -1,0 +1,193 @@
+[
+  {
+    "id": "25b4ec22-3502-4fee-97d7-74030786c66d",
+    "data": [
+      {
+        "text": "missing",
+        "alias": "incident",
+        "meta": "@incidentType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4ed70a6-20a8-4ef4-b0be-391d7a646e98",
+    "data": [
+      {
+        "text": "broke",
+        "alias": "incident",
+        "meta": "@incidentType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07bc2027-9217-4a05-96ed-157d911364b9",
+    "data": [
+      {
+        "text": "theft",
+        "alias": "incident",
+        "meta": "@incidentType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e767da5-ade6-4d66-b803-4bb15ef55373",
+    "data": [
+      {
+        "text": "vehicle",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " caught ",
+        "userDefined": false
+      },
+      {
+        "text": "fire",
+        "alias": "incident",
+        "meta": "@incidentType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c70b9bdf-de3d-4afc-a0c8-d6914b5f12ba",
+    "data": [
+      {
+        "text": "i met with an ",
+        "userDefined": false
+      },
+      {
+        "text": "accident",
+        "alias": "incident",
+        "meta": "@incidentType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "caf293be-e572-4853-8f02-1ecfbfc00b34",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "vehicle",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " was ",
+        "userDefined": false
+      },
+      {
+        "text": "damaged",
+        "alias": "incident",
+        "meta": "@incidentType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31a36262-d652-4d9b-afbe-01d9b12033d0",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "vehicle",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " was ",
+        "userDefined": false
+      },
+      {
+        "text": "burned",
+        "alias": "incident",
+        "meta": "@incidentType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e6748e1-bd91-4287-a443-1092226a5164",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "vehicle",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " was ",
+        "userDefined": false
+      },
+      {
+        "text": "stolen",
+        "alias": "incident",
+        "meta": "@incidentType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bf0a1a8-456d-4b5c-a8d5-542330d3cbb1",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "vehicle",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "crashed",
+        "alias": "incident",
+        "meta": "@incidentType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

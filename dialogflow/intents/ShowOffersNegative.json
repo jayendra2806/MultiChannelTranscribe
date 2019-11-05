@@ -1,0 +1,36 @@
+{
+  "id": "8f9b1213-6218-411a-98d9-88983befab28",
+  "name": "ShowOffersNegative",
+  "auto": true,
+  "contexts": [
+    "show_offers"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Sure, have a good day ahead!"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure, have a good day ahead!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "43abdd51-a7c0-4c28-9f3c-7adb4bb86522",
+  "parentId": "7cfcee4a-7884-44a7-a696-0046352b6203",
+  "rootParentId": "7cfcee4a-7884-44a7-a696-0046352b6203",
+  "name": "Redirect to CC",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Please hold while we transfer your call"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please hold while we transfer your call"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

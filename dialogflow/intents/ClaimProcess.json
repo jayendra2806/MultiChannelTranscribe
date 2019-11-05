@@ -1,0 +1,36 @@
+{
+  "id": "b0c7db25-a983-4f31-b0c8-bb6057bd8417",
+  "name": "ClaimProcess",
+  "auto": true,
+  "contexts": [
+    "file_claim"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Ok, can you tell me exactly what happened? was it an accident, fire, theft or something else?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok, can you tell me exactly what happened? was it an accident, fire, theft or something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

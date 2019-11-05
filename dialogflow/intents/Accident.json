@@ -1,0 +1,40 @@
+{
+  "id": "58b34b1e-9c29-49cf-bdf9-2b1344994199",
+  "name": "Accident",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Accident-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Was it a major or a minor accident?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Was it a major or a minor accident?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "38ebe691-53a5-4f9b-a98d-f8b8ab931a35",
+  "name": "claim",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

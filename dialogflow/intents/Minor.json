@@ -1,0 +1,45 @@
+{
+  "id": "fb063299-ae37-4505-b384-997ec6eb16ea",
+  "parentId": "58b34b1e-9c29-49cf-bdf9-2b1344994199",
+  "rootParentId": "58b34b1e-9c29-49cf-bdf9-2b1344994199",
+  "name": "Minor",
+  "auto": true,
+  "contexts": [
+    "Accident-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Accident.Accident-custom",
+      "affectedContexts": [
+        {
+          "name": "await_user_ack",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Oh I see, I can still raise a claim for you, but I will need your acknowledgement, say yes to raise a claim."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Oh I see, I can still raise a claim for you, but I will need your acknowledgement, say yes to raise a claim."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

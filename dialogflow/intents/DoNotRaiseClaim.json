@@ -1,0 +1,42 @@
+{
+  "id": "0057d192-c9bb-4229-aeb3-dd4212664f92",
+  "name": "DoNotRaiseClaim",
+  "auto": true,
+  "contexts": [
+    "await_user_ack"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "show_offers",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Got it, you don\u0027t want to raise a claim, still would you like to know about our offers?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Got it, you don\u0027t want to raise a claim, still would you like to know about our offers?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

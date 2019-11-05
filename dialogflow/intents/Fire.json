@@ -1,0 +1,40 @@
+{
+  "id": "ad3e6557-c502-4192-a2b1-2fa6c5b776e7",
+  "name": "Fire",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_user_ack",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "That\u0027s sad, I can raise a claim for you, but for that i will need your acknowledgement, say yes to raise a claim."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "That\u0027s sad, I can raise a claim for you, but for that i will need your acknowledgement, say yes to raise a claim."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

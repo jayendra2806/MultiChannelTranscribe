@@ -1,0 +1,55 @@
+{
+  "id": "8d625667-205a-432f-89cb-10ebaa23e635",
+  "name": "Scenario",
+  "auto": true,
+  "contexts": [
+    "await_scenario"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "detect_incident_magnitude",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3224bd1a-b2e8-465f-80a1-8ce8c963e96d",
+          "required": false,
+          "dataType": "@incidentType",
+          "name": "incident",
+          "value": "$incident",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Oh, so sorry to hear that, was there any major injury to anyone? If yes, was it a major or minor harm?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Oh, so sorry to hear that, was there any major injury to anyone? If yes, was it a major or minor harm?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

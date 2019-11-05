@@ -1,0 +1,44 @@
+[
+  {
+    "value": "burn",
+    "synonyms": [
+      "burn",
+      "burned",
+      "burning",
+      "fire",
+      "flames",
+      "smoke"
+    ]
+  },
+  {
+    "value": "crash",
+    "synonyms": [
+      "accident",
+      "crash",
+      "damaged",
+      "hit"
+    ]
+  },
+  {
+    "value": "damage",
+    "synonyms": [
+      "broke",
+      "broken",
+      "damage",
+      "scratch",
+      "shattered"
+    ]
+  },
+  {
+    "value": "stolen",
+    "synonyms": [
+      "disappeared",
+      "missing",
+      "steal",
+      "stole",
+      "stolen",
+      "theft",
+      "thief"
+    ]
+  }
+]

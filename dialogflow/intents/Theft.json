@@ -1,0 +1,40 @@
+{
+  "id": "9018a281-94c9-4d48-b11f-658ae28b2b05",
+  "name": "Theft",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_user_ack",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "That\u0027s sad, I can raise a claim for you, but for that i will need your acknowledgement, say yes to raise a claim."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "That\u0027s sad, I can raise a claim for you, but for that i will need your acknowledgement, say yes to raise a claim."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

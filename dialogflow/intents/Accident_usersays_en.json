@@ -1,0 +1,118 @@
+[
+  {
+    "id": "896d1ecd-30b8-4cb3-bd06-363077d08aa6",
+    "data": [
+      {
+        "text": "collision between ",
+        "userDefined": false
+      },
+      {
+        "text": "vehicles",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f87d6ee-4312-45dc-924d-368ccccf1f80",
+    "data": [
+      {
+        "text": "vehicle",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "crashed",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e500a5e8-7aa8-4465-9cfe-56d35cdf019c",
+    "data": [
+      {
+        "text": "I was involved in an ",
+        "userDefined": false
+      },
+      {
+        "text": "accident",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27daa47d-6128-4ca7-8533-51261f7644a2",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "crashed",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58cc4e98-03cd-4ebf-a50a-6cbc79573a0d",
+    "data": [
+      {
+        "text": "met with an ",
+        "userDefined": false
+      },
+      {
+        "text": "accident",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b72eece-999b-4ddf-86fe-0d977f914e8e",
+    "data": [
+      {
+        "text": "it was an ",
+        "userDefined": false
+      },
+      {
+        "text": "accident",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

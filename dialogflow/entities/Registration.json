@@ -1,0 +1,9 @@
+{
+  "id": "7265c0a5-3ff1-4469-a872-ed81904f5756",
+  "name": "Registration",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "dfd6d35c-525b-4475-ae8a-95fc73c73efa",
+  "name": "incidentType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

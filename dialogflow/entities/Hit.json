@@ -1,0 +1,9 @@
+{
+  "id": "f9373d0b-9c06-47c5-8989-9cf78438bbdc",
+  "name": "Hit",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

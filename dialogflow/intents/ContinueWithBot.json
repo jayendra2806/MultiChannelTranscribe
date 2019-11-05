@@ -1,0 +1,45 @@
+{
+  "id": "8338e244-566b-4a18-a89f-ad8c96281aaf",
+  "parentId": "7cfcee4a-7884-44a7-a696-0046352b6203",
+  "rootParentId": "7cfcee4a-7884-44a7-a696-0046352b6203",
+  "name": "ContinueWithBot",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes",
+      "affectedContexts": [
+        {
+          "name": "file_claim",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Hello, may I know your registration number please?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hello, may I know your registration number please?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
